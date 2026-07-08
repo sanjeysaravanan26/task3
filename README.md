@@ -146,41 +146,6 @@ Titanic-EDA/
 └── images/
 ```
 
----
-
- How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Titanic-EDA.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd Titanic-EDA
-```
-
-3. Install dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-5. Open
-
-```
-Titanic_EDA.ipynb
-```
-
----
 
  Learning Outcomes
 
